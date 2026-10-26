@@ -1,6 +1,6 @@
-==🔵Estudo de Robocode==
+==Estudo de Robocode==
 #### **Ideia Principal:** 
-Entender o código do robô atualmente chamado Lana Del Rey aumentando meu conhecimento relacionado ao conteúdo de Java POO
+Entender o código do robô atualmente chamado Lana Del Rey aumentando meu conhecimento relacionado ao conteúdo de Java
 
 #### **Plano Estruturado:** 
 Deve-se considerar algumas diretrizes antes de começar a entender o conteúdo relacionado ao código, antes desta etapa devemos esclarecer ideias e regras sendo elas as seguintes:
